@@ -1,0 +1,22 @@
+ul {
+    background-color: aquamarine;
+}
+
+
+/* A CSS  Rule that uses  a class starts with a dot. And the class can be applied to many HTML elements */
+
+.first-unordered-list {
+    background-color: chartreuse;
+    list-style-type: "\1F33B"
+}
+
+.list-item {
+    font-size: 40px;
+    color: rgb(51, 47, 40);
+}
+
+#rock {
+    font-size: 60px;
+    background-color: gold;
+    color: silver;
+}
